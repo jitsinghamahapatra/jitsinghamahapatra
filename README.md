@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jit singha mahapatra</h1>
 <h3 align="center">Pursuing a Bachelor’s in Computer Science with a passion for technology and innovation.</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jitsinghamahapatra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitsinghamahapatra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<br>
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
+
 - 🌱 I’m currently learning in **python**
 
 - 👨‍💻 All of my projects are available at [github.com/jitsinghamahapatra](github.com/jitsinghamahapatra)
